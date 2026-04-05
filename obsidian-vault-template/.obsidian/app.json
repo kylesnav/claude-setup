@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "propertiesInDocument": "hidden"
+}

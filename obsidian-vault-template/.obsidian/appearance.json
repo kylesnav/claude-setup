@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Delightful",
+  "accentColor": "",
+  "theme": "moonstone",
+  "showRibbon": true,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "Delightful"
+  ]
+}

@@ -1,0 +1,6 @@
+# Obsidian (machine-specific)
+.obsidian/workspace-mobile.json
+.obsidian/bookmarks.json
+
+# macOS
+.DS_Store

@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Wiki/",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "path:Claude/",
+      "color": {
+        "a": 1,
+        "rgb": 14776128
+      }
+    },
+    {
+      "query": "path:Archive/",
+      "color": {
+        "a": 1,
+        "rgb": 9211020
+      }
+    },
+    {
+      "query": "path:Projects/",
+      "color": {
+        "a": 1,
+        "rgb": 2270792
+      }
+    },
+    {
+      "query": "path:Research/",
+      "color": {
+        "a": 1,
+        "rgb": 4886745
+      }
+    },
+    {
+      "query": "path:References/",
+      "color": {
+        "a": 1,
+        "rgb": 10183375
+      }
+    },
+    {
+      "query": "path:Working/",
+      "color": {
+        "a": 1,
+        "rgb": 14601984
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.351575140382602,
+  "repelStrength": 10.0085657180927,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.27057779284826683,
+  "close": true
+}
