@@ -28,7 +28,7 @@ This is a personal setup. Fork it and adapt to your own tools, paths, and workfl
 
 ## The Stack
 
-This setup is built around the [Delightful Design System](https://github.com/kylesnav/delightful-design-system) — a neo-brutalist theme that runs across the entire dev environment:
+This setup is built around [Delightful](https://delightful.build/) — a neo-brutalist design system that runs across the entire dev environment:
 
 | Tool | Theme repo |
 |------|-----------|

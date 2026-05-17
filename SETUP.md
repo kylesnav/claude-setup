@@ -37,7 +37,8 @@ curl -sL https://raw.githubusercontent.com/kylesnav/delightful-ghostty/main/conf
 *(optional)* Shaders — vignette/bloom post-processing:
 ```sh
 mkdir -p ~/Library/Application\ Support/com.mitchellh.ghostty/shaders
-curl -sL https://raw.githubusercontent.com/kylesnav/delightful-ghostty/main/shaders/vignette.glsl -o ~/Library/Application\ Support/com.mitchellh.ghostty/shaders/vignette.glsl
+curl -sL https://raw.githubusercontent.com/kylesnav/delightful-ghostty/main/shaders/delightful-vignette.glsl -o ~/Library/Application\ Support/com.mitchellh.ghostty/shaders/delightful-vignette.glsl
+curl -sL https://raw.githubusercontent.com/kylesnav/delightful-ghostty/main/shaders/delightful-bloom.glsl -o ~/Library/Application\ Support/com.mitchellh.ghostty/shaders/delightful-bloom.glsl
 ```
 
 ## 4. Terminal — Starship prompt
